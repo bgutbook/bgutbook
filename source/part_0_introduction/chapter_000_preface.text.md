@@ -7,7 +7,7 @@ The Princess Bride (1987)
 
 ## Who this book is for
 
-This book is meant for anyone wants to be more productive in a Unix environment such as Linux or Mac OS. This is an introductory textbook, so the reader is supposed to have no previous knowledge of the subject matter, and they should expect to learn the most important commands and concepts they might be using daily.
+This book is meant for anyone who wants to be more productive in a Unix environment such as Linux or Mac OS. This is an introductory textbook, so the reader is supposed to have no previous knowledge of the subject matter, and they should expect to learn the most important commands and concepts they might be using daily.
 
 In recent years the gap between developers and system administrators has been fortunately reduced in various ways, all under the umbrella of the devops philosophy, so this book will be useful to those developers that have to start getting in touch with the "bare metal". These developers might find in the book a gradual learning curve and a quick reference for the most common commands of a Unix environment.
 
@@ -110,7 +110,7 @@ I studied and used several programming languages, from the Z80 and x86 Assembly 
 
 For 13 years I was a C/Python programmer and devops for a satellite imagery company and I am currently infrastructure engineer at [WeGotPOP](https://www.wegotpop.com), a UK company based in London and New York that creates innovative software for film productions.
 
-In 2013 I started publishing some technical thoughts on my blog, [The Digital Cat](http://thedigitalcatonline.com). In 2018 I published my first book with Leanpub, "Clean Architectures in Python", which at the time of writing has been already downloaded more than 10,000 times.
+In 2013 I started publishing some technical thoughts on my blog, [The Digital Cat](http://thedigitalcatonline.com). In 2018 I published my first book with Leanpub, [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/), which at the time of writing has been already downloaded more than 10,000 times.
 
 ## Acknowledgments
 
