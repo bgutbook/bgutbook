@@ -11,10 +11,6 @@ The book is not finished yet, but I thought the amount of chapters I wrote was e
 
 **Current version**: 1.0.2
 
-**Version 1.0.1 (2020-05-13)**
-
-GitHub users [Sundeep Agarwal](https://github.com/learnbyexample), [Vatsalya Gupta](https://github.com/vatsalya-gupta), and [Adithya Venkateswaran](https://github.com/MajorCarrot) spotted several typos and fixed them. Thanks!
-
 **Version 1.0.0 (2019-12-25)**
 
 * Initial release
@@ -22,3 +18,8 @@ GitHub users [Sundeep Agarwal](https://github.com/learnbyexample), [Vatsalya Gup
 **Version 1.0.1 (2019-12-25)**
 
 * Emil Jaregran (https://github.com/emiljaregran) fixed some typos and a mistake in exercise 9.02
+
+**Version 1.0.1 (2020-05-13)**
+
+GitHub users [Sundeep Agarwal](https://github.com/learnbyexample), [Vatsalya Gupta](https://github.com/vatsalya-gupta), and [Adithya Venkateswaran](https://github.com/MajorCarrot) spotted several typos and fixed them. Thanks!
+
