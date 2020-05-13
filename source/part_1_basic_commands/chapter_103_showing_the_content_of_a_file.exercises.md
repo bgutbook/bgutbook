@@ -17,7 +17,7 @@ gives the desired result.
 {EXERCISE END 01}
 
 {EXERCISE BEGIN 02}
-Chech if the file `examples.txt` contains spaces at the end of any line.
+Check if the file `examples.txt` contains spaces at the end of any line.
 {EXERCISE SOLUTION 02}
 According to the man page of `cat` the `-E` option displays `$` at the end of each line. So
 
