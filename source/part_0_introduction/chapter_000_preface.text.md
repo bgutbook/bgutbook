@@ -108,7 +108,7 @@ My name is Leonardo Giordani, I was born in Italy in 1977. That year gave to the
 
 I studied and used several programming languages, from the Z80 and x86 Assembly to Python and Scala. I love mathematics and cryptography. I'm mainly interested in open source software, and I like both the theoretical and practical aspects of computer science.
 
-For 13 years I was a C/Python programmer and devops for a satellite imagery company. and I am currently infrastructure engineer at [WeGotPOP](https://www.wegotpop.com), a UK company based in London and New York that creates innovative software for film productions.
+For 13 years I was a C/Python programmer and devops for a satellite imagery company and I am currently infrastructure engineer at [WeGotPOP](https://www.wegotpop.com), a UK company based in London and New York that creates innovative software for film productions.
 
 In 2013 I started publishing some technical thoughts on my blog, [The Digital Cat](http://thedigitalcatonline.com). In 2018 I published my first book with Leanpub, "Clean Architectures in Python", which at the time of writing has been already downloaded more than 10,000 times.
 
@@ -125,4 +125,4 @@ The cover photograph is by [pxhere](https://pxhere.com/en/photo/175470). A detai
 
 ## Sources
 
-The sources of the knowledge I tried to distil in this book are countless. Many people and the books they wrote, forums, Stack Overflow answers, a lot of experiments, a couple of hard disk partitions zapped trying to understand how the filesystem works, and a decent number of years spent automating processes. While all these are too many to be properly mentioned I can definitely provide the source of the log file used in the examples and the exercises. It is a simplified version of an Apache log file that can be downloaded (here)[https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs]
+The sources of the knowledge I tried to distil in this book are countless. Many people and the books they wrote, forums, Stack Overflow answers, a lot of experiments, a couple of hard disk partitions zapped trying to understand how the filesystem works, and a decent number of years spent automating processes. While all these are too many to be properly mentioned I can definitely provide the source of the log file used in the examples and the exercises. It is a simplified version of an Apache log file that can be downloaded [here](https://github.com/elastic/examples/blob/master/Common%20Data%20Formats/apache_logs/apache_logs)
